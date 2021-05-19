@@ -1010,7 +1010,7 @@ void stripPunctuators (char* string)
 /****************************************************************
  * Returns the difficulty rating of this project
  *
- * @return  double        difficulty rating of the project, from 1 to 5
+ * @return  double        difficulty rating of the project
  */
 double difficultyRating (void)
 {
